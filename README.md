@@ -1,1 +1,2 @@
-# coursera_capstone
+/api/bookings/
+/api/registration/
